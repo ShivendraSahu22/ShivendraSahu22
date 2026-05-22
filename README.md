@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m shivendraa sahu currently focused on building strong foundations in Machine Learning, Frontend Development, and Full Stack Development. Alongside this, I actively work on improving my problem-solving skills, which helps me approach real-world challenges with logical and efficient solutions.
+I’m shivendraa sahu currently focused on building strong foundations in Machine Learning and Frontend Development. Alongside this, I actively work on improving my problem-solving skills, which helps me approach real-world challenges with logical and efficient solutions.
 
 I enjoy learning by building projects and exploring how technology can solve practical problems. My current journey is all about combining development + AI to create impactful applications.
 
