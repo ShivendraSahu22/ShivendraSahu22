@@ -3,4 +3,4 @@
 
 [Portfolio Website](https://shivendrasahu22.netlify.app/)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://your-website.com)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://your-website.com)
