@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivendra Sahu</h1>
-
-<p align="center">
-  AI & ML Enthusiast | Data Analyst | Web Developer
-</p>
+<h3 align="center">Hi 👋, I'm Shivendra Sahu</h3>
 
 
 
