@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm Shivendra Sahu</h1>
+
 <p align="center">
-  <img src="https://your-banner-image-url" width="100%">
+  AI & ML Enthusiast | Data Analyst | Web Developer
 </p>
 
 
