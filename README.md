@@ -1,4 +1,11 @@
 <p align="center">
+  <img src="https://your-banner-image-url" width="100%">
+</p>
+
+
+
+
+<p align="center">
   <a href="https://shivendrasahu22.netlify.app/"><img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge"></a>
   <a href="https://instagram.com/soul_of_shivendra"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://youtube.com/@ShivendraSahu22"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
