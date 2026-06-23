@@ -12,21 +12,6 @@
 </p>
 
 
-
 <p align="center">
-  <svg width="800" height="80" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="tiranga" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#FF9933"/>
-        <stop offset="40%" style="stop-color:#FF9933"/>
-        <stop offset="40%" style="stop-color:#FFFFFF"/>
-        <stop offset="60%" style="stop-color:#FFFFFF"/>
-        <stop offset="60%" style="stop-color:#138808"/>
-        <stop offset="100%" style="stop-color:#138808"/>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="55" font-family="Ubuntu Condensed, sans-serif" 
-          font-size="52" font-weight="bold" text-anchor="middle" 
-          fill="url(#tiranga)">Machine Learning</text>
-  </svg>
+  <span style="color:#FF9933; font-size:42px; font-weight:bold; font-family:'Ubuntu Condensed'">Machi</span><span style="color:#FFFFFF; font-size:42px; font-weight:bold;">ne Lea</span><span style="color:#138808; font-size:42px; font-weight:bold;">rning</span>
 </p>
