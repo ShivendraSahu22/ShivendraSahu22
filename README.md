@@ -11,7 +11,3 @@
   <a href="https://www.linkedin.com/in/shivendra-sahu-28683635b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-
-<p align="center">
-  <span style="color:#FF9933; font-size:42px; font-weight:bold; font-family:'Ubuntu Condensed'">Machi</span><span style="color:#FFFFFF; font-size:42px; font-weight:bold;">ne Lea</span><span style="color:#138808; font-size:42px; font-weight:bold;">rning</span>
-</p>
