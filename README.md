@@ -1,9 +1,8 @@
 <h3 align="center">Hi 👋, I'm Shivendra Sahu</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Condensed&size=42&pause=1000&color=FF9933,FFFFFF,138808&center=true&vCenter=true&width=1000&lines=Machine+Learning;Data+Analyst;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Condensed&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Data+Analyst;Web+Developer" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <a href="https://shivendrasahu22.netlify.app/"><img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge"></a>
