@@ -13,6 +13,14 @@
 
 
 
+<div align="center">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Languages-87CEEB?style=for-the-badge&logoColor=white&labelColor=87CEEB" alt="Languages"/>
+</a>
+
+</div>
+
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
