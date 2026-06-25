@@ -5,7 +5,6 @@
 </p>
 
 <br>
-<br>
 
 <p align="center">
   <a href="https://shivendrasahu22.netlify.app/"><img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge"></a>
@@ -14,8 +13,6 @@
   <a href="https://www.linkedin.com/in/shivendra-sahu-28683635b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<br>
-<br>
 
 <div align="center">
 
@@ -25,7 +22,6 @@
 
 </div>
 
-<br>
 <br>
 
 
