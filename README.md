@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Condensed&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Machine+Learning;Data+Analyst;Ai+Enthusiast" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
   <a href="https://shivendrasahu22.netlify.app/"><img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge"></a>
   <a href="https://instagram.com/soul_of_shivendra"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
