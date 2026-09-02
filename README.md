@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Shivendra Sahu</h3> 
- 
+  
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Condensed&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Machine+Learning;Data+Analyst;Ai+Enthusiast" alt="Typing SVG" />
 </p>
